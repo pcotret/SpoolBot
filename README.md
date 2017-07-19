@@ -76,12 +76,12 @@ char mouse_read(void)
   for(i=0;i<8;i++)
   {
 	while(digitalRead(MCLK)==HIGH);
-    if(digitalRead(MDATA)==HIGH)
+    	if(digitalRead(MDATA)==HIGH)
 	{
 	  data=data|bit;
-    }
-    while(digitalRead(MCLK)==LOW);
-    bit=bit<<1;
+    	}
+    	while(digitalRead(MCLK)==LOW);
+    	bit=bit<<1;
   }
   // Wait for two clock cycles (parity and stop bits)
   while(digitalRead(MCLK)==HIGH);
