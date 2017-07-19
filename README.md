@@ -108,6 +108,9 @@ You can also find it at https://github.com/pcotret/SpoolBot/blob/master/docs/fri
 To be completed, we need to fix a few things on 3D files.
 ![solidworks](https://raw.githubusercontent.com/pcotret/SpoolBot/master/img/boitier.png)
 
+## Demonstration video
+https://www.youtube.com/watch?v=5DotnpfB1dM
+
 ## References
 * http://jerome.hennecart.free.fr/principe_souris.htm
 * http://www.rennes.supelec.fr/ren/perso/jweiss/docs/mouse_ps2/souris_ps2.php/
