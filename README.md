@@ -109,7 +109,7 @@ To be completed, we need to fix a few things on 3D files.
 ![solidworks](https://raw.githubusercontent.com/pcotret/SpoolBot/master/img/boitier.png)
 
 ## Demonstration video
-https://www.youtube.com/watch?v=5DotnpfB1dM
+![hello](https://img.youtube.com/vi/5DotnpfB1dM/0.jpg)](https://www.youtube.com/watch?v=5DotnpfB1dM)
 
 ## References
 * http://jerome.hennecart.free.fr/principe_souris.htm
