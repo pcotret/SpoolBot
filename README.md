@@ -105,6 +105,11 @@ You can also find it at https://github.com/pcotret/SpoolBot/blob/master/docs/fri
 ![fritzing](https://raw.githubusercontent.com/pcotret/SpoolBot/master/img/wiring.png)
 
 ### 3D-printed case
-
 To be completed, we need to fix a few things on 3D files.
 ![solidworks](https://raw.githubusercontent.com/pcotret/SpoolBot/master/img/boitier.png)
+
+## References
+* http://jerome.hennecart.free.fr/principe_souris.htm
+* http://www.rennes.supelec.fr/ren/perso/jweiss/docs/mouse_ps2/souris_ps2.php/
+* https://playground.arduino.cc/ComponentLib/Ps2mouse
+* https://www.hackster.io/binsun148/smart-3d-printer-filament-counter-filamentbot-383ac8
