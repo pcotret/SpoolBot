@@ -1,7 +1,7 @@
 ![spoolbot](https://raw.githubusercontent.com/pcotret/SpoolBot/master/img/spoolbot.png)
 # How to create a filament counter for a 3D printer for a few bucks
-## Vladimir Béraud-Peigné, Eric Gastineau, Marie Xérès
-## CentraleSupélec, Rennes campus, 2016/2017
+### Vladimir Béraud-Peigné, Eric Gastineau, Marie Xérès
+CentraleSupélec, Rennes campus, 2016/2017
 
 This project has been realized by Vladimir Béraud-Peigné, Eric Gastineau and Marie Xérès (1st year students 16/17 at CentraleSupélec, Rennes campus) for a short-term project under the supervision of Dr. Pascal Cotret.
 
