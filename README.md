@@ -95,16 +95,13 @@ char mouse_read(void)
 ```
 
 ## SpoolBot solution
-
 ![full](https://raw.githubusercontent.com/pcotret/SpoolBot/master/img/full_stuff.png)
 
 ### Arduino code
-
-See xxx
+See https://github.com/pcotret/SpoolBot/blob/master/docs/spoolbot_code/spoolbot_code.ino
 
 ### Wiring diagram
-
-You can also find it at xxx
+You can also find it at https://github.com/pcotret/SpoolBot/blob/master/docs/fritzing_spoolbot.fzz
 ![fritzing](https://raw.githubusercontent.com/pcotret/SpoolBot/master/img/wiring.png)
 
 ### 3D-printed case
